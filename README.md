@@ -1,0 +1,1 @@
+# npm-private-module-test
